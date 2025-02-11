@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/TAREFA_AS_U4C7O123E_05_02_2025.hex'
+elf = 'build/TAREFA_AS_U4C7O123E_05_02_2025.elf'
